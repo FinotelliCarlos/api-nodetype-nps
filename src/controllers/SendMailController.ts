@@ -4,7 +4,7 @@ import { getCustomRepository } from "typeorm";
 import { AppError } from "../errors/AppError";
 import { SurveysRepository } from "../repositories/SurveysRepository";
 import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository";
-import { UsersRepository } from "../repositories/UsersRespository";
+import { UsersRepository } from "../repositories/UsersRepository";
 import SendMailService from "../services/SendMailService";
 
 class SendMailController {
