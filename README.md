@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
 <p align="left">
-  A aplicação "api-nodetype-nps" calcula a NPS (Net Promoter Score) que é uma métrica desenvolvida para medir os níveis de lealdade do cliente a empresa.
+  A aplicação API-NPS calcula a NPS (Net Promoter Score) que é uma métrica desenvolvida para medir os níveis de lealdade do cliente a empresa.
   No nosso NPS cadastramos usuários, pesquisas e envio de e-mail para clientes para que respondam pesquisas de satisfação e assim realizamos o cálculo de NPS.
 </p>
 <p align="left">
