@@ -16,7 +16,7 @@
 <h1>Tecnologias</h1>
 <strong>Projeto desenvolvido utilizando as tecnologias:</strong>
 
-<br>
+<br><br>
 
 - TypeScript
 - TypeORM
