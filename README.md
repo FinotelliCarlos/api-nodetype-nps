@@ -16,12 +16,12 @@
 <h1>Tecnologias</h1>
 <strong>Projeto desenvolvido utilizando as tecnologias:</strong>
 
-- [TypeScript]
-- [TypeORM]
-- [Jest]
-- [SQL Editor Beekeeper Studio]
-- [Ethereal-Email]
-- [Express]
+- TypeScript
+- TypeORM
+- Jest
+- SQL Editor Beekeeper Studio
+- Ethereal-Email
+- Express
 
 <h1>Executar</h1>
 <strong>Para executar o App</strong>
